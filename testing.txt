@@ -1,0 +1,3 @@
+git status
+gitbash
+git
